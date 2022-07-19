@@ -1,0 +1,16 @@
+KUBERNETES:
+kubectl apply -f .\platforms-depl.yaml  #apply service/deployment
+kubectl get deployments  #gets deploys
+kubectl get pods  #gets deploys
+kubectl get services #gets services
+kubectl delete svc platformservice-srv #delete service
+kubectl delete deploy platforms-depl #delete deploy
+
+
+DOCKER:
+docker build -t <docker hub id>/<name> . (ex: docker build -t dawidjastrzebski/platformservice .) #create docker image
+docker run -p 8080:80 -d <docker hub id>/<name> (ex: docker run -p 8080:80 -d dawidjastrzebski/platformservice) #run docker container with image
+docker ps #show all containers
+docker stop hashNameOfContainer #stops container
+docker start hashNameOfContainer #starts container
+docker push <docker hub id>/<name>
