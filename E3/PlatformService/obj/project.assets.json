@@ -2200,11 +2200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitReposDJ\\Microservices\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "C:\\GitReposDJ\\Microservices\\PlatformService\\PlatformService.csproj",
+      "projectPath": "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\PlatformService.csproj",
       "packagesPath": "C:\\Users\\Dejw\\.nuget\\packages\\",
-      "outputPath": "C:\\GitReposDJ\\Microservices\\PlatformService\\obj\\",
+      "outputPath": "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dejw\\AppData\\Roaming\\NuGet\\NuGet.Config"

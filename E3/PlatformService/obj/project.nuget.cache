@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D14gj9cw6/8zK2EgO72qUmjuTCGqAms6OK7ncBZzuuj1w9sFMo2r1hKoyPPdT9+zjCwnN8IVaum3ulX+dQwcEA==",
+  "dgSpecHash": "yZ4fIBAE6EEC9KsNQyLExtyPeA5F6beKCisD2t8mnNyrMHS9oqeV4QY5SZGLTHxGX+RXryrM+0mjxe9kGjzQrA==",
   "success": true,
-  "projectFilePath": "C:\\GitReposDJ\\Microservices\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dejw\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Dejw\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

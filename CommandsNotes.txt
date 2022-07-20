@@ -14,3 +14,6 @@ docker ps #show all containers
 docker stop hashNameOfContainer #stops container
 docker start hashNameOfContainer #starts container
 docker push <docker hub id>/<name>
+
+DOTNET:
+dotnet new webapi -n CommandService #create new project

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\PlatformService.csproj": {}
+    "C:\\GitReposDJ\\Microservices\\E3\\CommandService\\CommandService.csproj": {}
   },
   "projects": {
-    "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\PlatformService.csproj": {
+    "C:\\GitReposDJ\\Microservices\\E3\\CommandService\\CommandService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\PlatformService.csproj",
-        "projectName": "PlatformService",
-        "projectPath": "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\GitReposDJ\\Microservices\\E3\\CommandService\\CommandService.csproj",
+        "projectName": "CommandService",
+        "projectPath": "C:\\GitReposDJ\\Microservices\\E3\\CommandService\\CommandService.csproj",
         "packagesPath": "C:\\Users\\Dejw\\.nuget\\packages\\",
-        "outputPath": "c:\\GitReposDJ\\Microservices\\E3\\PlatformService\\obj\\",
+        "outputPath": "C:\\GitReposDJ\\Microservices\\E3\\CommandService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dejw\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,29 +44,21 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.6, )"
+              "version": "[6.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.6, )"
+              "version": "[6.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[6.0.6, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.6, )"
-            },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.14.0, )"
+              "version": "[6.0.7, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
